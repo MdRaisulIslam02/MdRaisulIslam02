@@ -30,7 +30,7 @@ const raisul = {
   location: "Bangladesh 🇧🇩",
   stack: ["MongoDB", "Express.js", "React", "Node.js"],
   currentFocus: "Building scalable full-stack web apps",
-  funFact: "console.log('hello world') is still my comfort food"
+  funFact: "console.log('hello world') is still my comfort food",
 };
 ```
 
@@ -54,21 +54,18 @@ const raisul = {
 
 <table align="center">
   <tr>
-    <td align="center" width="33%">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=mongodb" width="55" />
       <br><b>MongoDB</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=express" width="55" />
       <br><b>Express.js</b>
     </td>
-    <td align="center" width="33%">
+    <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="55" />
       <br><b>React</b>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="55" />
       <br><b>Node.js</b>
@@ -81,9 +78,6 @@ const raisul = {
       <img src="https://skillicons.dev/icons?i=typescript" width="55" />
       <br><b>TypeScript</b>
     </td>
-  </tr>
-
-  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="55" />
       <br><b>Tailwind CSS</b>
@@ -136,6 +130,7 @@ const raisul = {
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Importance of legacy React.js code in Job Market](https://www.youtube.com/watch?v=SQxJRPQK0KI)
 - [React Redux Crash Course Bangla with Redux Toolkit](https://www.youtube.com/watch?v=qhll3DXuLHI)
 - [Google's XYZ formula for landing a Job - Resume writing guide](https://www.youtube.com/watch?v=daql1aB2b_M)
