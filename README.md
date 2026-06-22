@@ -36,8 +36,7 @@ const raisul = {
 
 - ⚛️ Building dynamic, scalable apps end-to-end with **MERN**
 - 🧠 Co-founder of **Analyzen** — Bangladesh's first & largest digital marketing agency
-- 📺 Content Creator sharing real-world dev tutorials on YouTube
-- 📫 **mdraju3248@gmail.com**
+- 📫 **coder.raisul@gmail.com**
 
 </td>
 <td width="45%" align="center">
