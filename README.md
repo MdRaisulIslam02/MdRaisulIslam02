@@ -6,13 +6,11 @@
 
 <div align="center">
 
-<a href="https://github.com/mdraisulislam02">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Raisul;MERN+Stack+Developer;Building+Web+Apps" alt="Typing SVG" />
-</a>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Raisul;MERN+Stack+Developer;Building+Web+Apps)
 
 <br/>
 
-<img src="https://img.shields.io/badge/MERN%20STACK%20DEVELOPER-0E75B6?style=for-the-badge&logo=react&logoColor=white" alt="MERN Stack Developer" />
+![MERN Stack Developer](https://img.shields.io/badge/MERN%20STACK%20DEVELOPER-0E75B6?style=for-the-badge&logo=react&logoColor=white)
 
 </div>
 
