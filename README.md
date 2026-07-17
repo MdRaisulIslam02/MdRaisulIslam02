@@ -7,7 +7,7 @@
 <div align="center">
 
 <a href="https://github.com/mdraisulislam02">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Raisul;MERN+Stack+Developer;Building+Web+Apps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Raisul;MERN+Stack+Developer;Building+Web+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
