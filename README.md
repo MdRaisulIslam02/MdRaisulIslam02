@@ -82,40 +82,13 @@
 
 ### 🚀 PROJECTS & VENTURES
 
-<table width="100%">
-  <tr>
-    <td width="100%" align="center">
-      <h3>🌐 Analyzen</h3>
-      <p>BD's first & largest IT agency</p>
-      <a href="https://nixsoftware.net"><img src="https://img.shields.io/badge/🔗_VISIT_WEBSITE-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/IMPACT:_120%2B_CLIENTS-2563eb?style=flat-square&logo=rocket&logoColor=white" />
-    </td>
-    <td width="100%" align="center">
-      <h3>🤖 Listenyzen</h3>
-      <p>AI-powered social media analytics SaaS</p>
-      <a href="https://nixsoftware.net"><img src="https://img.shields.io/badge/🔗_VISIT_WEBSITE-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/IMPACT:_16%2B_CLIENTS-a855f7?style=flat-square&logo=openai&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td width="100%" align="center">
-      <h3>⚡ Prism ERP</h3>
-      <p>Sales automation for British American Tobacco BD</p>
-      <a href="#"><img src="https://img.shields.io/badge/🔒_ENTERPRISE_SYSTEM-10b981?style=for-the-badge&logo=shopify&logoColor=white" /></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/IMPACT:_2.5K%2B_DISTRIBUTORS-059669?style=flat-square&logo=buffer&logoColor=white" />
-    </td>
-    <td width="100%" align="center">
-      <h3>📚 Raisul Islam Platform</h3>
-      <p>Programming learning platform for Bangladesh</p>
-      <a href="#"><img src="https://img.shields.io/badge/🚀_EXPLORE_PLATFORM-f97316?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-      <br><br>
-      <img src="https://img.shields.io/badge/IMPACT:_1K%2B_LEARNERS-ea580c?style=flat-square&logo=graduation-dot-com&logoColor=white" />
-    </td>
-  </tr>
-</table>
+| PROJECT | DESCRIPTION | IMPACT & LINK |
+| :--- | :--- | :--- |
+| **🌐 [Analyzen](https://nixsoftware.net)** | BD's first & largest IT agency | ![120+ Clients](https://img.shields.io/badge/120%2B_CLIENTS-2563eb?style=for-the-badge&logo=rocket&logoColor=white) |
+| **🤖 [Listenyzen](https://nixsoftware.net)** | AI-powered social media analytics SaaS | ![16+ Clients](https://img.shields.io/badge/16%2B_CLIENTS-9333ea?style=for-the-badge&logo=openai&logoColor=white) |
+| **⚡ Prism ERP** | Sales automation for British American Tobacco BD | ![2.5K+ Distributors](https://img.shields.io/badge/2.5K%2B_DISTRIBUTORS-059669?style=for-the-badge&logo=buffer&logoColor=white) |
+| **📚 Raisul Islam** | Programming learning platform for Bangladesh | ![1K+ Learners](https://img.shields.io/badge/1K%2B_LEARNERS-ea580c?style=for-the-badge&logo=codeforces&logoColor=white) |
+
 ---
 
 ### 📈 TOP LANGUAGES
