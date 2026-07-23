@@ -64,14 +64,9 @@
 
 ### 📊 IMPACT NUMBERS
 
-<div align="center">
-
-| ⚡ 120+ | 🚀 2.5K+ | 🎓 1K+ |
+| 🎯 **120+ Clients** | 🌐 **2.5K+ Distributors** | 📚 **1K+ Learners** |
 | :---: | :---: | :---: |
-| **AGENCY CLIENTS** | **BATB DISTRIBUTORS** | **ACTIVE LEARNERS** |
-| *Trusted Worldwide* | *Active Network* | *Growing Community* |
-
-</div>
+| Enterprise Solutions & Agencies | British American Tobacco BD | Active Programming Students |
 
 ---
 
