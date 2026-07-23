@@ -84,6 +84,39 @@
 
 <table width="100%">
   <tr>
+    <td width="50%" align="center">
+      <h3>🌐 Analyzen</h3>
+      <p>BD's first & largest IT agency</p>
+      <a href="https://nixsoftware.net"><img src="https://img.shields.io/badge/🔗_VISIT_WEBSITE-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/IMPACT:_120%2B_CLIENTS-2563eb?style=flat-square&logo=rocket&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🤖 Listenyzen</h3>
+      <p>AI-powered social media analytics SaaS</p>
+      <a href="https://nixsoftware.net"><img src="https://img.shields.io/badge/🔗_VISIT_WEBSITE-9333ea?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/IMPACT:_16%2B_CLIENTS-a855f7?style=flat-square&logo=openai&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>⚡ Prism ERP</h3>
+      <p>Sales automation for British American Tobacco BD</p>
+      <a href="#"><img src="https://img.shields.io/badge/🔒_ENTERPRISE_SYSTEM-10b981?style=for-the-badge&logo=shopify&logoColor=white" /></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/IMPACT:_2.5K%2B_DISTRIBUTORS-059669?style=flat-square&logo=buffer&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3>📚 Raisul Islam Platform</h3>
+      <p>Programming learning platform for Bangladesh</p>
+      <a href="#"><img src="https://img.shields.io/badge/🚀_EXPLORE_PLATFORM-f97316?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+      <br><br>
+      <img src="https://img.shields.io/badge/IMPACT:_1K%2B_LEARNERS-ea580c?style=flat-square&logo=graduation-dot-com&logoColor=white" />
+    </td>
+  </tr>
+</table>
+  <tr>
     <td width="50%">
       <h3>🌐 <a href="https://nixsoftware.net">Analyzen</a></h3>
       <p>BD's first & largest IT agency</p>
@@ -113,7 +146,6 @@
 ### 📈 TOP LANGUAGES
 
 <div align="center">
-  <!-- আপনার GitHub ইউজারনেম এখানে বসাবেন, যেমন: username এর জায়গায় আপনার আসল github username দিন -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisulislam&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
 </div>
 
