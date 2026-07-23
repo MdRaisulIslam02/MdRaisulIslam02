@@ -44,20 +44,20 @@
 
 ### 🛠️ TECH STACK
 
-<p>
-  <code>🟢 MongoDB</code> &nbsp;&nbsp;
-  <code>🟢 Express.js</code> &nbsp;&nbsp;
-  <code>🔵 React</code> &nbsp;&nbsp;
-  <code>🟢 Node.js</code> &nbsp;&nbsp;
-  <code>⚪ Next.js</code> &nbsp;&nbsp;
-  <code>🔵 TypeScript</code> &nbsp;&nbsp;
-  <code>🔵 Tailwind</code>
-  <br><br>
-  <code>🟡 JavaScript</code> &nbsp;&nbsp;
-  <code>🔵 MySQL</code> &nbsp;&nbsp;
-  <code>🟣 PHP</code> &nbsp;&nbsp;
-  <code>🔴 Git</code> &nbsp;&nbsp;
-  <code>🟠 Figma</code>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 
 ### 🚀 PROJECTS & VENTURES
 
-| PROJECT | DESCRIPTION | IMPACT |
+| Project | Description | Impact |
 | :--- | :--- | :--- |
 | **[Analyzen](https://nixsoftware.net)** | BD's first & largest IT agency | `120+ clients` |
 | **[Listenyzen](https://nixsoftware.net)** | AI-powered social media analytics SaaS | `16+ clients` |
@@ -83,12 +83,10 @@
 
 ### 📈 TOP LANGUAGES
 
-```text
-JavaScript  ████████████████████████████████████  72%
-TypeScript  ██████████████████████████            55%
-CSS         ██████████████████                    40%
-PHP         ██████████                            25%
-HTML        ████████                              18%
+<div align="center">
+  <!-- আপনার GitHub ইউজারনেম এখানে বসাবেন, যেমন: username এর জায়গায় আপনার আসল github username দিন -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisulislam&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+</div>
 
 ---
 
