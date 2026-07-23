@@ -64,11 +64,14 @@
 
 ### 📊 IMPACT NUMBERS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/120%2B-AGENCY_CLIENTS-blue?style=for-the-badge&logo=rocket&logoColor=white" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/2.5K%2B-BATB_DISTRIBUTORS-green?style=for-the-badge&logo=shopify&logoColor=white" /> &nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/1K%2B-ACTIVE_LEARNERS-orange?style=for-the-badge&logo=graduation-dot-com&logoColor=white" />
-</p>
+<div align="center">
+
+| ⚡ 120+ | 🚀 2.5K+ | 🎓 1K+ |
+| :---: | :---: | :---: |
+| **AGENCY CLIENTS** | **BATB DISTRIBUTORS** | **ACTIVE LEARNERS** |
+| *Trusted Worldwide* | *Active Network* | *Growing Community* |
+
+</div>
 
 ---
 
