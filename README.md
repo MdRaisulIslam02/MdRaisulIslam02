@@ -100,14 +100,14 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <h3>⚡ Prism ERP</h3>
       <p>Sales automation for British American Tobacco BD</p>
       <a href="#"><img src="https://img.shields.io/badge/🔒_ENTERPRISE_SYSTEM-10b981?style=for-the-badge&logo=shopify&logoColor=white" /></a>
       <br><br>
       <img src="https://img.shields.io/badge/IMPACT:_2.5K%2B_DISTRIBUTORS-059669?style=flat-square&logo=buffer&logoColor=white" />
     </td>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <h3>📚 Raisul Islam Platform</h3>
       <p>Programming learning platform for Bangladesh</p>
       <a href="#"><img src="https://img.shields.io/badge/🚀_EXPLORE_PLATFORM-f97316?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
