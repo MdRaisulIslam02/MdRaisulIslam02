@@ -82,13 +82,32 @@
 
 ### 🚀 PROJECTS & VENTURES
 
-| Project | Description | Impact |
-| :--- | :--- | :--- |
-| **[Analyzen](https://nixsoftware.net)** | BD's first & largest IT agency | `120+ clients` |
-| **[Listenyzen](https://nixsoftware.net)** | AI-powered social media analytics SaaS | `16+ clients` |
-| **Prism ERP** | Sales automation for British American Tobacco BD | `2.5K+ distributors` |
-| **Raisul Islam** | Programming learning platform for Bangladesh | `1K+ learners` |
-
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>🌐 <a href="https://nixsoftware.net">Analyzen</a></h3>
+      <p>BD's first & largest IT agency</p>
+      <code>120+ clients</code>
+    </td>
+    <td width="50%">
+      <h3>🤖 <a href="https://nixsoftware.net">Listenyzen</a></h3>
+      <p>AI-powered social media analytics SaaS</p>
+      <code>16+ clients</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>⚡ Prism ERP</h3>
+      <p>Sales automation for British American Tobacco BD</p>
+      <code>2.5K+ distributors</code>
+    </td>
+    <td width="50%">
+      <h3>📚 Raisul Islam</h3>
+      <p>Programming learning platform for Bangladesh</p>
+      <code>1K+ learners</code>
+    </td>
+  </tr>
+</table>
 ---
 
 ### 📈 TOP LANGUAGES
