@@ -1,208 +1,143 @@
-<div style="font-family:'Inter',sans-serif;background:#0d1117;color:#e6edf3;min-height:600px;padding:2rem 1.5rem;max-width:860px;margin:0 auto;box-sizing:border-box;">
+<div align="center">
 
-  <div style="display:flex;align-items:center;gap:12px;justify-content:center;margin-bottom:.5rem;">
-    <div style="width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#1f6feb,#a371f7);display:flex;align-items:center;justify-content:center;font-size:16px;font-weight:700;color:#fff;">
-      R
-    </div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Raisul+Islam;MERN+Stack+Developer;Building+Scalable+Web+Applications;Co-founder+%40+Analyzen)
 
-    <div>
-      <div style="font-family:'Fira Code',monospace;font-size:22px;font-weight:600;color:#58a6ff;text-align:center;letter-spacing:-0.5px;">
-        Raisul Islam
-      </div>
+<br/>
 
-      <div style="text-align:center;color:#8b949e;font-size:13px;margin-bottom:2rem;font-family:'Fira Code',monospace;">
-        MERN Stack Developer · Bangladesh 🇧🇩
-      </div>
-    </div>
-
-  </div>
-
-  <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.5rem;justify-content:center;">
-    
-    <span style="background:#1f6feb;color:#fff;font-size:11px;font-weight:600;padding:4px 12px;border-radius:6px;letter-spacing:.5px;text-transform:uppercase;">
-      MERN Stack
-    </span>
-
-    <span style="background:#238636;color:#fff;font-size:11px;font-weight:600;padding:4px 12px;border-radius:6px;letter-spacing:.5px;text-transform:uppercase;">
-      Open to Work
-    </span>
-
-    <span style="background:#30363d;color:#8b949e;font-size:11px;font-weight:600;padding:4px 12px;border-radius:6px;letter-spacing:.5px;text-transform:uppercase;">
-      📍 Bangladesh
-    </span>
-
-    <span style="background:#30363d;color:#8b949e;font-size:11px;font-weight:600;padding:4px 12px;border-radius:6px;letter-spacing:.5px;text-transform:uppercase;">
-      📧 coder.raisul@gmail.com
-    </span>
-
-  </div>
-
-  <div style="display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin-bottom:1.5rem;">
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:1.25rem;">
-
-      <h3 style="font-size:13px;color:#8b949e;text-transform:uppercase;letter-spacing:1px;margin-bottom:.8rem;font-weight:500;">
-        About
-      </h3>
-
-
-      <div style="background:#0d1117;border:1px solid #30363d;border-radius:8px;padding:1rem;font-family:'Fira Code',monospace;font-size:11.5px;line-height:1.8;color:#e6edf3;">
-
-        <span style="color:#ff7b72;">const</span>
-        <span style="color:#79c0ff;"> raisul </span>
-        = {<br>
-
-        &nbsp;&nbsp;
-        <span style="color:#79c0ff;">role</span>:
-        <span style="color:#a5d6ff;">"MERN Developer"</span>,<br>
-
-        &nbsp;&nbsp;
-        <span style="color:#79c0ff;">location</span>:
-        <span style="color:#a5d6ff;">"Bangladesh 🇧🇩"</span>,<br>
-
-        &nbsp;&nbsp;
-        <span style="color:#79c0ff;">focus</span>:
-        <span style="color:#a5d6ff;">"Scalable Web Apps"</span>,<br>
-
-        &nbsp;&nbsp;
-        <span style="color:#79c0ff;">funFact</span>:
-        <span style="color:#a5d6ff;">"console.log is<br>
-        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;comfort food"</span><br>
-
-        }
-
-      </div>
-
-    </div>
-
-
-
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:12px;padding:1.25rem;">
-
-      <h3 style="font-size:13px;color:#8b949e;text-transform:uppercase;letter-spacing:1px;margin-bottom:.8rem;font-weight:500;">
-        What I do
-      </h3>
-
-
-      <ul style="list-style:none;display:flex;flex-direction:column;gap:.6rem;padding:0;margin:0;">
-
-        <li style="display:flex;align-items:flex-start;gap:.5rem;font-size:13px;color:#c9d1d9;line-height:1.5;">
-          <span style="width:6px;height:6px;border-radius:50%;background:#58a6ff;margin-top:5px;"></span>
-          Build full-stack apps end-to-end with
-          <strong style="color:#58a6ff;">MERN</strong>
-        </li>
-
-
-        <li style="display:flex;align-items:flex-start;gap:.5rem;font-size:13px;color:#c9d1d9;line-height:1.5;">
-          <span style="width:6px;height:6px;border-radius:50%;background:#3fb950;margin-top:5px;"></span>
-          Co-founder of
-          <strong style="color:#3fb950;">Analyzen</strong>
-        </li>
-
-
-        <li style="display:flex;align-items:flex-start;gap:.5rem;font-size:13px;color:#c9d1d9;line-height:1.5;">
-          <span style="width:6px;height:6px;border-radius:50%;background:#a371f7;margin-top:5px;"></span>
-          Creator of
-          <strong style="color:#a371f7;">Listenyzen</strong>
-        </li>
-
-
-        <li style="display:flex;align-items:flex-start;gap:.5rem;font-size:13px;color:#c9d1d9;line-height:1.5;">
-          <span style="width:6px;height:6px;border-radius:50%;background:#ffa657;margin-top:5px;"></span>
-          Programming tutor —
-          <strong style="color:#ffa657;">1K+ active learners</strong>
-        </li>
-
-      </ul>
-
-    </div>
-      <div style="font-size:13px;color:#8b949e;text-transform:uppercase;letter-spacing:1px;margin:1.5rem 0 .8rem;font-weight:500;display:flex;align-items:center;gap:.5rem;">
-    Tech Stack
-    <span style="flex:1;height:1px;background:#30363d;"></span>
-  </div>
-
-
-  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(100px,1fr));gap:8px;margin-bottom:1.5rem;">
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#4CAF50;"></span>MongoDB
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#8BC34A;"></span>Express.js
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#61DAFB;"></span>React
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#43A047;"></span>Node.js
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#fff;"></span>Next.js
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#3178C6;"></span>TypeScript
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#38BDF8;"></span>Tailwind
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#F7DF1E;"></span>JavaScript
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#00758F;"></span>MySQL
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#8892BE;"></span>PHP
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#F05032;"></span>Git
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:8px;padding:8px 10px;display:flex;align-items:center;gap:8px;font-size:12px;color:#c9d1d9;font-weight:500;">
-      <span style="width:8px;height:8px;border-radius:50%;background:#F24E1E;"></span>Figma
-    </div>
-
-  </div>
-
-
-
-  <div style="font-size:13px;color:#8b949e;text-transform:uppercase;letter-spacing:1px;margin:1.5rem 0 .8rem;font-weight:500;display:flex;align-items:center;gap:.5rem;">
-    Impact Numbers
-    <span style="flex:1;height:1px;background:#30363d;"></span>
-  </div>
-
-
-  <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-bottom:1.5rem;">
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:1rem;text-align:center;">
-      <div style="font-size:22px;font-weight:600;color:#58a6ff;font-family:'Fira Code',monospace;">120+</div>
-      <div style="font-size:11px;color:#8b949e;margin-top:4px;text-transform:uppercase;">Agency Clients</div>
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:1rem;text-align:center;">
-      <div style="font-size:22px;font-weight:600;color:#58a6ff;font-family:'Fira Code',monospace;">2.5K+</div>
-      <div style="font-size:11px;color:#8b949e;margin-top:4px;text-transform:uppercase;">BATB Distributors</div>
-    </div>
-
-    <div style="background:#161b22;border:1px solid #30363d;border-radius:10px;padding:1rem;text-align:center;">
-      <div style="font-size:22px;font-weight:600;color:#58a6ff;font-family:'Fira Code',monospace;">1K+</div>
-      <div style="font-size:11px;color:#8b949e;margin-top:4px;text-transform:uppercase;">Active Learners</div>
-    </div>
-
-  </div>
-
+![MERN Stack](https://img.shields.io/badge/MERN%20STACK%20DEVELOPER-1f6feb?style=for-the-badge&logo=react&logoColor=white)
+![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 </div>
 
-  </div>
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+```js
+const raisul = {
+  role     : "MERN Stack Developer",
+  location : "Bangladesh 🇧🇩",
+  stack    : ["MongoDB", "Express.js", "React", "Node.js"],
+  focus    : "Scalable full-stack web applications",
+  funFact  : "console.log is still my comfort food",
+};
+```
+
+- ⚛️ Building dynamic, production-grade apps with **MERN**
+- 🧠 Co-founder of **Analyzen** — Bangladesh's largest IT agency
+- 🤖 Creator of **Listenyzen** — AI-powered social media SaaS
+- 📺 Programming tutorials for 1K+ active learners
+- 📫 **coder.raisul@gmail.com** · **raisul@imjol.com**
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mdraisulislam02&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠 Tech Stack
+
+<div align="center">
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Projects & Ventures
+
+<div align="center">
+
+| Project | Description | Impact |
+|:---|:---|:---:|
+| **[Analyzen](https://imjol.com)** | Bangladesh's first & largest IT agency | `120+ clients` |
+| **Listenyzen** | AI-powered social media analytics SaaS (MERN) | `16+ clients` |
+| **Prism ERP** | Sales automation & ERP for British American Tobacco BD | `2.5K+ distributors` |
+| **Raisul Islam** | Programming learning platform for Bangladesh | `1K+ learners` |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdraisulislam02&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdraisulislam02&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdraisulislam02&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffa657&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+## 📺 Tutorials & Content
+
+<div align="center">
+
+[![React](https://img.shields.io/badge/React_Course-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://lwsbd.link/react)
+[![Node.js](https://img.shields.io/badge/Node.js_Course-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://lwsbd.link/node)
+[![JavaScript](https://img.shields.io/badge/JavaScript_Course-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://lwsbd.link/startjs)
+
+</div>
+
+**🎬 Latest Videos**
+
+<!-- YOUTUBE:START -->
+- [Importance of legacy React.js code in Job Market](https://www.youtube.com/watch?v=SQxJRPQK0KI)
+- [React Redux Crash Course Bangla with Redux Toolkit](https://www.youtube.com/watch?v=qhll3DXuLHI)
+- [Google's XYZ formula for landing a Job — Resume writing guide](https://www.youtube.com/watch?v=daql1aB2b_M)
+<!-- YOUTUBE:END -->
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raisul-islam51/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raisulislamRR)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raisulislam6640r/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdraju3248@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mdraisulislam02&label=Profile%20views&color=1f6feb&style=flat-square" />
+
+<br/><br/>
+
+*💻 MERN Stack Developer · 📺 Content Creator · 🇧🇩 Bangladesh*<br/>
+*Thanks for stopping by — check out my pinned repos below ⭐*
+
+</div>
