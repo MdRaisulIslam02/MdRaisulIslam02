@@ -93,7 +93,7 @@
 
 ### 📈 TOP LANGUAGES
 
-<div align="center">
+<div align="">
 
 <table width="100%">
   <thead>
