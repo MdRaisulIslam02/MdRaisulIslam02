@@ -91,12 +91,14 @@
 
 ---
 
-### 🔥 GITHUB CONTRIBUTION ACTIVITY
+### 🐍 My Contributions Snake Game
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/MdRaisulIslam02" alt="Github Contribution Graph" width="100%" />
-</div>
 
+<!-- Snake animation -->
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="contribution snake" />
+
+</div>
 ---
 
 ### 🌐 CONNECT
