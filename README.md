@@ -12,8 +12,6 @@
 
 ![MERN Stack Developer](https://img.shields.io/badge/MERN%20STACK%20DEVELOPER-0E75B6?style=for-the-badge&logo=react&logoColor=white)
 
-</div>
-
 <br/>
 
 <table align="center" border="0">
