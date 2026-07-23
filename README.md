@@ -96,7 +96,7 @@
 <div align="center">
 
 <a href="https://github.com">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisulislam&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Top%20Languages" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRaisulIslam02&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
 
 </div>
