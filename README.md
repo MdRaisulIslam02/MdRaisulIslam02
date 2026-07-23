@@ -96,14 +96,19 @@
 <div align="center">
 
 <table width="100%">
-  <thead width="50%">
+  <colgroup>
+    <col span="1" style="width: 25%;">
+    <col span="1" style="width: 55%;">
+    <col span="1" style="width: 20%;">
+  </colgroup>
+  <thead>
     <tr>
       <th align="left">Language</th>
       <th align="left">Usage & Progress</th>
       <th align="center">Share</th>
     </tr>
   </thead>
-  <tbody width="50%">
+  <tbody>
     <tr>
       <td><b>JavaScript</b></td>
       <td><code>████████████████████████████████████</code></td>
