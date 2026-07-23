@@ -82,14 +82,12 @@
 
 ### 🚀 PROJECTS & VENTURES
 
-<p align="center">
-  | PROJECT | DESCRIPTION | IMPACT & LINK |
+| PROJECT | DESCRIPTION | IMPACT & LINK |
 | :--- | :--- | :--- |
 | **🌐 [Analyzen](https://nixsoftware.net)** | BD's first & largest IT agency | ![120+ Clients](https://img.shields.io/badge/120%2B_CLIENTS-2563eb?style=for-the-badge&logo=rocket&logoColor=white) |
 | **🤖 [Listenyzen](https://nixsoftware.net)** | AI-powered social media analytics SaaS | ![16+ Clients](https://img.shields.io/badge/16%2B_CLIENTS-9333ea?style=for-the-badge&logo=openai&logoColor=white) |
 | **⚡ Prism ERP** | Sales automation for British American Tobacco BD | ![2.5K+ Distributors](https://img.shields.io/badge/2.5K%2B_DISTRIBUTORS-059669?style=for-the-badge&logo=buffer&logoColor=white) |
 | **📚 Raisul Islam** | Programming learning platform for Bangladesh | ![1K+ Learners](https://img.shields.io/badge/1K%2B_LEARNERS-ea580c?style=for-the-badge&logo=codeforces&logoColor=white) |
-</p>
 
 ---
 
