@@ -95,13 +95,42 @@
 
 <div align="center">
 
-| Language | Usage & Progress | Share |
-| :--- | :--- | :---: |
-| **JavaScript** | `████████████████████████████████████` | ![JS](https://img.shields.io/badge/72%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **TypeScript** | `██████████████████████████` | ![TS](https://img.shields.io/badge/55%25-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| **CSS** | `██████████████████` | ![CSS](https://img.shields.io/badge/40%25-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **PHP** | `██████████` | ![PHP](https://img.shields.io/badge/25%25-777BB4?style=flat-square&logo=php&logoColor=white) |
-| **HTML** | `████████` | ![HTML](https://img.shields.io/badge/18%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Language</th>
+      <th align="left">Usage & Progress</th>
+      <th align="center">Share</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>JavaScript</b></td>
+      <td><code>████████████████████████████████████</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/72%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
+    </tr>
+    <tr>
+      <td><b>TypeScript</b></td>
+      <td><code>██████████████████████████</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/55%25-3178C6?style=flat-square&logo=typescript&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><b>CSS</b></td>
+      <td><code>██████████████████</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/40%25-1572B6?style=flat-square&logo=css3&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><b>PHP</b></td>
+      <td><code>██████████</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/25%25-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td><b>HTML</b></td>
+      <td><code>████████</code></td>
+      <td align="center"><img src="https://img.shields.io/badge/18%25-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
