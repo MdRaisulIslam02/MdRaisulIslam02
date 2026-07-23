@@ -94,7 +94,15 @@
 ### 📈 TOP LANGUAGES
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisulislam&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
+
+| Language | Usage & Progress | Share |
+| :--- | :--- | :---: |
+| **JavaScript** | `████████████████████████████████████` | ![JS](https://img.shields.io/badge/72%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **TypeScript** | `██████████████████████████` | ![TS](https://img.shields.io/badge/55%25-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **CSS** | `██████████████████` | ![CSS](https://img.shields.io/badge/40%25-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **PHP** | `██████████` | ![PHP](https://img.shields.io/badge/25%25-777BB4?style=flat-square&logo=php&logoColor=white) |
+| **HTML** | `████████` | ![HTML](https://img.shields.io/badge/18%25-E34F26?style=flat-square&logo=html5&logoColor=white) |
+
 </div>
 
 ---
