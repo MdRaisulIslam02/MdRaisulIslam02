@@ -91,10 +91,10 @@
 
 ---
 
-### 🔥 CONTRIBUTION GRAPH
+### 📈 MY CONTRIBUTION TREND
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MdRaisulIslam02&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-charts.vercel.app/api/sparkline?username=MdRaisulIslam02&theme=tokyonight&hide_border=true&line=4A90E2&area=true" alt="Contribution Chart" />
 </div>
 
 ---
