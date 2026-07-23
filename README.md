@@ -91,10 +91,10 @@
 
 ---
 
-### 📈 MY CONTRIBUTION TREND
+### 🔥 GITHUB CONTRIBUTION ACTIVITY
 
 <div align="center">
-  <img src="https://github-readme-charts.vercel.app/api/sparkline?username=MdRaisulIslam02&theme=tokyonight&hide_border=true&line=4A90E2&area=true" alt="Contribution Chart" />
+  <img src="https://ghchart.rshah.org/MdRaisulIslam02" alt="Github Contribution Graph" width="100%" />
 </div>
 
 ---
