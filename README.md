@@ -91,15 +91,13 @@
 
 ---
 
-### 📈 TOP LANGUAGES
+### 📊 GITHUB STATS & CONTRIBUTIONS
 
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-72%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-55%25-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-40%25-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-25%25-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-18%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MdRaisulIslam02&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdRaisulIslam02&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
 ---
 
