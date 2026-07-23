@@ -64,9 +64,19 @@
 
 ### 📊 IMPACT NUMBERS
 
-| 🎯 **120+ Clients** | 🌐 **2.5K+ Distributors** | 📚 **1K+ Learners** |
-| :---: | :---: | :---: |
-| Enterprise Solutions & Agencies | British American Tobacco BD | Active Programming Students |
+<p align="center">
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/⚡%20120%2B%20AGENCY%20CLIENTS-blue?style=for-the-badge&logo=rocket&logoColor=white&labelColor=1e293b" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/🌐%202.5K%2B%20BATB%20DISTRIBUTORS-green?style=for-the-badge&logo=shopify&logoColor=white&labelColor=1e293b" height="35" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com">
+    <img src="https://img.shields.io/badge/🎓%201K%2B%20ACTIVE%20LEARNERS-orange?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=1e293b" height="35" />
+  </a>
+</p>
 
 ---
 
