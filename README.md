@@ -96,14 +96,14 @@
 <div align="center">
 
 <table width="100%">
-  <thead>
+  <thead width="50%">
     <tr>
       <th align="left">Language</th>
       <th align="left">Usage & Progress</th>
       <th align="center">Share</th>
     </tr>
   </thead>
-  <tbody>
+  <tbody width="50%">
     <tr>
       <td><b>JavaScript</b></td>
       <td><code>████████████████████████████████████</code></td>
