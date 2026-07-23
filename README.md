@@ -94,53 +94,28 @@
 ### 📈 TOP LANGUAGES
 
 <div align="center">
-
 <table width="100%">
-  <colgroup>
-    <col span="1" style="width: 25%;">
-    <col span="1" style="width: 55%;">
-    <col span="1" style="width: 20%;">
-  </colgroup>
-  <thead>
-    <tr>
-      <th align="left">Language</th>
-      <th align="left">Usage & Progress</th>
-      <th align="center">Share</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>JavaScript</b></td>
-      <td><code>████████████████████████████████████</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/72%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></td>
-    </tr>
-    <tr>
-      <td><b>TypeScript</b></td>
-      <td><code>██████████████████████████</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/55%25-3178C6?style=flat-square&logo=typescript&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><b>CSS</b></td>
-      <td><code>██████████████████</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/40%25-1572B6?style=flat-square&logo=css3&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><b>PHP</b></td>
-      <td><code>██████████</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/25%25-777BB4?style=flat-square&logo=php&logoColor=white" /></td>
-    </tr>
-    <tr>
-      <td><b>HTML</b></td>
-      <td><code>████████</code></td>
-      <td align="center"><img src="https://img.shields.io/badge/18%25-E34F26?style=flat-square&logo=html5&logoColor=white" /></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td width="50%">
+      <p><b>⚡ JavaScript</b> &nbsp;&nbsp; <small>72%</small></p>
+      <p><code>████████████████████████████████████</code></p>
+      <p><b>🔷 TypeScript</b> &nbsp;&nbsp; <small>55%</small></p>
+      <p><code>██████████████████████████</code></p>
+      <p><b>🎨 CSS</b> &nbsp;&nbsp; <small>40%</small></p>
+      <p><code>██████████████████</code></p>
+    </td>
+    <td width="50%">
+      <p><b>🟣 PHP</b> &nbsp;&nbsp; <small>25%</small></p>
+      <p><code>██████████</code></p>
+      <p><b>🟠 HTML</b> &nbsp;&nbsp; <small>18%</small></p>
+      <p><code>████████</code></p>
+      <p><i>💡 Tech Stack Proficiency Overview</i></p>
+    </td>
+  </tr>
 </table>
-
 </div>
 
 ---
-
 ### 🌐 CONNECT
 
 <div align="center">
