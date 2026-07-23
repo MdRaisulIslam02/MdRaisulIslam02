@@ -1,12 +1,6 @@
 <div align="center">
 
-<!-- <img src="assets/git.png" width="100%" alt="banner" /> -->
-
-<br/>
-
-<div align="center">
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Hi+I'm+Raisul;MERN+Stack+Developer;Building+Web+Apps)
+<img src="assets/git.png" width="100%" alt="banner" />
 
 <br/>
 
