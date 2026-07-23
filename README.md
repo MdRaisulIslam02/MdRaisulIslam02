@@ -94,25 +94,11 @@
 ### 📈 TOP LANGUAGES
 
 <div align="center">
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <p><b>⚡ JavaScript</b> &nbsp;&nbsp; <small>72%</small></p>
-      <p><code>████████████████████████████████████</code></p>
-      <p><b>🔷 TypeScript</b> &nbsp;&nbsp; <small>55%</small></p>
-      <p><code>██████████████████████████</code></p>
-      <p><b>🎨 CSS</b> &nbsp;&nbsp; <small>40%</small></p>
-      <p><code>██████████████████</code></p>
-    </td>
-    <td width="50%">
-      <p><b>🟣 PHP</b> &nbsp;&nbsp; <small>25%</small></p>
-      <p><code>██████████</code></p>
-      <p><b>🟠 HTML</b> &nbsp;&nbsp; <small>18%</small></p>
-      <p><code>████████</code></p>
-      <p><i>💡 Tech Stack Proficiency Overview</i></p>
-    </td>
-  </tr>
-</table>
+
+<a href="https://github.com">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisulislam&layout=compact&theme=tokyonight&hide_border=true&langs_count=5&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
+
 </div>
 
 ---
